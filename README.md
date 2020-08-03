@@ -37,7 +37,7 @@ After each completed step, please commit and push. The commit message should be 
 a. create new route to create new orders, on add|cancel redirect to order-list page
 
 
-### Part 2 - Order item improvements
+### Part 2 - Tickets List
 a. create new page 'ticket-list' and show tickets list items
 a. Make every ticket to show title, content .., as following:  
 ![content](https://d2x3xhvgiqkx42.cloudfront.net/3d412e82-d97e-487e-b1a3-41a6bd24a05b/b9bd9ddb-c0bf-4b55-888e-747f0d6524c8/2019/09/27/6fec98b0-c9cd-4583-ac9f-eaf8983c4061/6043b7ba-e795-4807-8aca-9f693c0450eb.png)  
